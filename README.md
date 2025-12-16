@@ -1,6 +1,6 @@
+Ссылка на код на колабе: https://colab.research.google.com/drive/1RX69eoJC01gYYHsEQItlMHO_hg2h_YMu?usp=sharing  
 Инструкция по работе с кодом:  
 1. Скачайте файл с кодом  
 2. Скачайте файл с корпусом текста("Мертвые души" Гоголя)  
 3. Загрузите корпус текста в директории запускаемого кода  
-4. Запустите код  
-Ссылка на код на колабе: https://colab.research.google.com/drive/1RX69eoJC01gYYHsEQItlMHO_hg2h_YMu?usp=sharing
+4. Запустите код
